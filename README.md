@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
  
 - 💼  **Full-Stack Software Engineer** 
-- 🌐  Building **Django** web applications that replace manual Excel/paper workflows for engineering, quality and procurement teams
+- 🌐  Building **Django** web applications that replace manual Excel/paper workflows for engineering, inspection and procurement teams
 - 🤖  Passionate about **AI integration**, **DevOps** and **end-to-end ownership** &mdash; from frontend to deployment
 - 🎓  B.Sc. in Computer Science &amp; Engineering &mdash; **BGC Trust University Bangladesh**
  
