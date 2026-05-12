@@ -7,11 +7,9 @@
 ## 🙋‍♂️ About Me
  
 - 💼  **Full-Stack Software Engineer** 
-- 🌐  Building **Django** web applications that replace manual Excel/paper workflows for engineering, quality, and procurement teams
-- 🤖  Passionate about **AI integration**, **DevOps**, and **end-to-end ownership** &mdash; from frontend to deployment
+- 🌐  Building **Django** web applications that replace manual Excel/paper workflows for engineering, quality and procurement teams
+- 🤖  Passionate about **AI integration**, **DevOps** and **end-to-end ownership** &mdash; from frontend to deployment
 - 🎓  B.Sc. in Computer Science &amp; Engineering &mdash; **BGC Trust University Bangladesh**
-- 🎵  Outside code: Sufi music, hip-hop performance and geopolitics
----
  
 ## 🛠️ Tech Stack
  
@@ -29,7 +27,6 @@
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 </p>
 #### Databases &amp; Infrastructure
 <p>
@@ -38,14 +35,15 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/-Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 </p>
 #### AI &amp; Tools
 <p>
-  <img src="https://img.shields.io/badge/-Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /
+  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 ---
  
