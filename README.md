@@ -2,12 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20,30&height=200&section=header&text=Tanvir%20Foysal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Japan-based&descAlignY=58&descSize=18" alt="header banner" />
 </div>
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=FoysalMdTanvir&style=flat-square&color=blueviolet)
-  ![Followers](https://img.shields.io/github/followers/FoysalMdTanvir?style=flat-square&color=blue)
-  ![Stars](https://img.shields.io/github/stars/FoysalMdTanvir?style=flat-square&color=yellow)
- 
-</div>
 ---
  
 ## 🙋‍♂️ About Me
