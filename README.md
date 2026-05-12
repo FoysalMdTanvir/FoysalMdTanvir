@@ -37,13 +37,12 @@
   <img src="https://img.shields.io/badge/-Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
   <img src="https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
 </p>
-#### AI &amp; Tools
+####Tools
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /
-  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" /
 </p>
 ---
  
