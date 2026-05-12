@@ -22,13 +22,13 @@
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
-#### Frameworks &amp; Libraries
+#### Frameworks and Libraries
 <p>
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-#### Databases &amp; Infrastructure
+#### Databases and Infrastructure
 <p>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -47,11 +47,7 @@
 
  
 ## 📊 GitHub Analytics
- 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FoysalMdTanvir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoysalMdTanvir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FoysalMdTanvir&theme=tokyonight&hide_border=true" />
 </div>
